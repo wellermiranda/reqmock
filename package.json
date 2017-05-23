@@ -1,0 +1,17 @@
+{
+  "name": "reqmock",
+  "version": "0.0.1",
+  "description": "simple way to mock for require packages",
+  "main": "index.js",
+  "author": "Wellerson Miranda <weller.miranda@gmail.com>",
+  "scripts": {
+    "dev": "gulp"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-mocha": "^3.0.1",
+    "gulp-watch": "^4.3.10",
+    "should": "^11.1.1"
+  }
+}
