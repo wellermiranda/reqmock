@@ -1,6 +1,6 @@
 {
   "name": "reqmock",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "simple way to mock require packages",
   "main": "index.js",
   "author": "Wellerson Miranda <weller.miranda@gmail.com>",
